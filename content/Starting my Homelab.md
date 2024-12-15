@@ -1,7 +1,5 @@
 ---
-"up:": 
-tags:
-  - 📥/🟨
+draft: "true"
 ---
 ___
 ## Why did I want to start my homelab
